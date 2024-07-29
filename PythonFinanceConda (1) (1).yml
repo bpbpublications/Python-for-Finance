@@ -1,0 +1,34 @@
+name: PythonFinance
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - openpyxl
+  - matplotlib
+  - seaborn
+  - plotly
+  - bokeh
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - ta-lib
+  - mplfinance 
+  - lightgbm
+  - xgboost
+  - pandas-datareader
+  - quandl
+  - yfinance
+  - mplfinance
+  - arch-py
+  - prophet
+  - pmdarima
+  - beautifulsoup4
+  - requests
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - spyder
+  - spyder-kernels
